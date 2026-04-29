@@ -1,11 +1,18 @@
-# Marwan Dhifallah
+Hi, I’m Marwan Dhifallah.
 
-## Personal Information
+I am an MSc student in Software Engineering at Dalian University of Technology, China.  
+My current research focuses on integrating Large Language Models (LLMs) with Knowledge Graphs to develop retrieval-augmented systems for biomedical applications.
 
-**Name:** Marwan Dhifallah
-**Degree:** MSc Student - Software Engineering
-**University:** Dalian University of Technology, China
-**Email:** [marwan@mail.dlut.edu.cn](mailto:marwan@mail.dlut.edu.cn)
-**LinkedIn:** [https://www.linkedin.com/in/mrmarwan](https://www.linkedin.com/in/mrmarwan)
-**ORCID:** 0009-0003-9052-6873
-**GitHub:** [https://github.com/marwan8086](https://github.com/marwan8086)
+I have worked on several research-oriented projects, including:
+- Chimera-3X: A hybrid cognitive engine for biomedical consulting  
+- CAFF: A knowledge-graph–driven framework for reasoning and data extraction  
+- DSRQS: Relation-query scoring for medical diagnosis support
+
+My interests include:  
+LLMs, Knowledge Graphs, Retrieval-Augmented Generation (RAG), NLP, and AI-driven medical systems.
+
+I am currently preparing further research for submission to reputable AI journals.
+
+📧 marwan@mail.dlut.edu.cn  
+🔗 ORCID: https://orcid.org/0009-0003-9052-6873  
+🔗 LinkedIn: https://www.linkedin.com/in/mrmarwan  
