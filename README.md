@@ -3,6 +3,15 @@ Hi, I’m Marwan Dhifallah.
 <img width="1046" height="621" alt="image" src="https://github.com/user-attachments/assets/9e404a29-fd12-4cd9-bdb7-eae85355e65a" />
 
 
+
+
+
+
+
+
+
+
+
 I am an MSc student in Software Engineering at Dalian University of Technology, China.  
 My current research focuses on integrating Large Language Models (LLMs) with Knowledge Graphs to develop retrieval-augmented systems for biomedical applications.
 
