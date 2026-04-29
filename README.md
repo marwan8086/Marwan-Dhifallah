@@ -1,4 +1,5 @@
-<img width="2539" height="1337" alt="image" src="https://github.com/user-attachments/assets/376b6331-78d1-4459-becf-a3c94ef14597" />
+<img width="1363" height="658" alt="image" src="https://github.com/user-attachments/assets/a6173d46-c465-45dc-8062-80464a80e39c" />
+
 
 ### Hi, I'm Marwan Dhifallah.
 
