@@ -3,8 +3,8 @@
 
 ### Hi, I'm Marwan Dhifallah.
 
-I am an MSc student in Software Engineering at Dalian University of Technology, China.  
-My current research focuses on integrating Large Language Models (LLMs) with Knowledge Graphs to build retrieval-augmented systems for biomedical applications.
+I am an MSc student in Software Engineering at Dalian University of Technology, China.
+My current research focuses on integrating Large Language Models (LLMs) with Knowledge Graphs to develop retrieval-augmented systems for biomedical applications, leveraging these technologies for drug discovery and biomedical question answering.
 
 I am a minute fragment of this boundless cosmos, endeavoring to contribute a single grain to the edifice of science erected by my predecessors, and joining with my contemporaries in shaping the future of knowledge ....  if only by a grain’s weight. I am a danger to no one; I possess no time for dispute. I bear no enmity toward any being, whomever they may be. I cherish peace and science, and my eyes are veiled from all that lies beyond them .
 
